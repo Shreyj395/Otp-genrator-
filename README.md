@@ -43,6 +43,6 @@ This is a **One-Time Password (OTP) Generator** built using **HTML** and **CSS**
 * Practicing HTML & CSS
 * Small UI projects
 
-### 🌟 Preview
+
 
 
